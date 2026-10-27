@@ -13,3 +13,4 @@ This folder records the significant decisions behind News Agent. See
 | [0003](0003-v1-scope-and-requirements-baseline.md) | v1 scope and requirements baseline | Accepted | Definition |
 | [0004](0004-logical-architecture.md) | Logical architecture | Accepted | Logical Design |
 | [0005](0005-database-selection.md) | Database selection and raw capture storage | Accepted | Logical Design |
+| [0006](0006-orchestrator-selection.md) | Orchestrator selection | Accepted | Logical Design |

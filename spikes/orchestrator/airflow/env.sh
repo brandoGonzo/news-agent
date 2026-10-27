@@ -1,0 +1,8 @@
+export AIRFLOW_HOME=$(pwd)/airflow
+export AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://spike:spike@localhost:5432/airflow
+export AIRFLOW__CORE__EXECUTOR=LocalExecutor
+export AIRFLOW__CORE__LOAD_EXAMPLES=False
+export AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION=False
+export AIRFLOW__CORE__PARALLELISM=4
+export AIRFLOW__CORE__EXECUTION_API_SERVER_URL=http://localhost:8080/execution/
+export AIRFLOW__API__PORT=8080
