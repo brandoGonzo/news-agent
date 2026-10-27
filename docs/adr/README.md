@@ -14,3 +14,4 @@ This folder records the significant decisions behind News Agent. See
 | [0004](0004-logical-architecture.md) | Logical architecture | Accepted | Logical Design |
 | [0005](0005-database-selection.md) | Database selection and raw capture storage | Accepted | Logical Design |
 | [0006](0006-orchestrator-selection.md) | Orchestrator selection | Accepted | Logical Design |
+| [0007](0007-language-and-api-framework.md) | Language, API framework, and security modules | Accepted | Logical Design |
