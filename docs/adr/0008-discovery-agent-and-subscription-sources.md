@@ -114,7 +114,7 @@ Every component, including C14, is covered by at least one requirement.
 ## Diagram snapshots
 
 These are exported from
-[News Agent - Logical Architecture (v2)](https://lucid.app/lucidchart/419ac04d-5569-4d4e-a2cd-63ef172422ea/edit),
+[News Agent - Logical Architecture (v2)](https://lucid.app/lucidchart/cc21ac0c-be7a-45f1-a9c9-2afe92281a9c/edit),
 which is now the editable source. The v1 snapshots in ADR-0004 are kept as history.
 
 ![Logical components v2](../architecture/logical-components-v2.png)
