@@ -12,3 +12,4 @@ This folder records the significant decisions behind News Agent. See
 | [0002](0002-phased-design-process-with-exit-checks.md) | Phased design process with exit checks | Accepted | Discovery |
 | [0003](0003-v1-scope-and-requirements-baseline.md) | v1 scope and requirements baseline | Accepted | Definition |
 | [0004](0004-logical-architecture.md) | Logical architecture | Accepted | Logical Design |
+| [0005](0005-database-selection.md) | Database selection and raw capture storage | Accepted | Logical Design |
